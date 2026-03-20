@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# App Settings
+mkvbatch_settings.json
+
+# IDEs
+.vscode/
+.idea/
+
+# PyInstaller / Build
+build/
+dist/
+*.spec
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Output folders
+MKV_Output/
